@@ -1,7 +1,7 @@
 # Graph Recurrent Temporal Point Process
 
 
-This page is the supplementary material for <anonymous>.
+This page is the supplementary material.
 
 ## Environment Setting 
 
@@ -15,7 +15,5 @@ For implementing experiments on full dataset or other datasets, download it from
 
 
 ## Training **(IMPORTANT)**
-
-Run
 
 python run_grtpp.py
