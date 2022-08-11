@@ -9,7 +9,10 @@ Check requirement.txt
 
 ## Dataset
 
-Check the Link
+We include the example dataset of NYC TAXI and 911, and the graph dataset we used.
+
+For implementing experiments on full dataset or other datasets, download it from the link in the paper.
+
 
 ## Training **(IMPORTANT)**
 
